@@ -85,6 +85,7 @@ const Player = ({
           icon={faAngleRight}
         />
       </div>
+      <p>Made by <a target="_blank" rel="noreferrer" href="https://github.com/harshprasad44">Harsh Prasad</a></p>
     </div>
   );
 };
